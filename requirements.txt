@@ -1,0 +1,5 @@
+discord.py
+groq
+google-genai
+python-dotenv
+aiosqlite
